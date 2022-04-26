@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## My technical highlights
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 <!--
 **edsonboldrini/edsonboldrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
