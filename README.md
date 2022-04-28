@@ -5,6 +5,9 @@ I am a Full Stack Software Engineer who love this carrer, 3+ years experience bu
 
 I am passionate about knowledge and I work every day to be the best version of myself.
 
+## About me
+25 years, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
+
 ## Technical highlights
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
