@@ -1,3 +1,11 @@
+# Hello, I'm Edson boldrini 🚀
+
+
+![Edson's Github stats](https://github-readme-stats.vercel.app/api?username=edsonboldrini&show_icons=true&theme=dark)]
+
+## About me
+25 years, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
+
 ## Summary
 I like to say: "I solve problems and give systems working assurance: first I build and make it work, then I improve."
 
@@ -5,10 +13,7 @@ I am a Full Stack Software Engineer who love this carrer, 3+ years experience bu
 
 I am passionate about knowledge and I work every day to be the best version of myself.
 
-## About me
-25 years, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
-
-## Technical highlights
+## Technical highlights (my daily drivers, mostly private contributions) 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -23,6 +28,7 @@ I am passionate about knowledge and I work every day to be the best version of m
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nuxt.JS](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonboldrini)
 
 <!--
 **edsonboldrini/edsonboldrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
