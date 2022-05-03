@@ -27,7 +27,7 @@ I am passionate about knowledge and I work every day to be the best version of m
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nuxt.JS](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonboldrini) -->
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonboldrini)
 
 <!--
 **edsonboldrini/edsonboldrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
