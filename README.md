@@ -3,7 +3,7 @@
 ![Edson's Github stats](https://github-readme-stats.vercel.app/api?username=edsonboldrini&show_icons=true&theme=dark)
 
 ## About me
-25 years, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
+26 years, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
 
 ## Summary
 I like to say: "I solve problems and give systems working assurance: first I build and make it work, then I improve."
