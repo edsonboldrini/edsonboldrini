@@ -1,6 +1,6 @@
 # Hello, I'm Edson boldrini 🚀
 
-![Edson's Github stats](https://github-readme-stats.vercel.app/api?username=edsonboldrini&show_icons=true&theme=dark)
+[![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonboldrini)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
 26 years, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
@@ -27,7 +27,9 @@ I am passionate about knowledge and I work every day to be the best version of m
 ![Next.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nuxt.JS](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonboldrini)
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonboldrini&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edsonboldrini&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **edsonboldrini/edsonboldrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
