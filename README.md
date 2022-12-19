@@ -28,7 +28,7 @@ I am passionate about knowledge and I work every day to be the best version of m
 ![Nuxt.JS](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonboldrini&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonboldrini&hide=python,objective-c,java,swift)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=edsonboldrini&theme=dark)](https://git.io/streak-stats)
 
 <!--
