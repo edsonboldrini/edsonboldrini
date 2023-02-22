@@ -3,12 +3,12 @@
 [![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonboldrini)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
-26 years, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
+Hi, I'm Edson, I love spending time with people I love, specially my wife, I like to play sports and taking care of my health, I also like programming and build useful things in my free time. I'm 26, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
 
 ## Summary
-I like to say: "I solve problems and give systems working assurance: first I build and make it work, then I improve."
+About my carreer as a Software Engineer, I like to say: "I solve problems and guarantee the functioning of the systems: first I plan, then I build and finally I keep improving the solution."
 
-I am a Full Stack Software Engineer who love this carrer, 3+ years experience building APIs, web apps and mobile apps. I specialize in JavaScript and Flutter and have professional experience working with NodeJS, Vue, Hasura, Docker, AWS, Elixir and of course Flutter. I also have some experience or experimental attempts with C# (.NET core), React and React Native. Take a look at my projects on github or get in touch! I don't have many public projects available on my github, but I'm working on filling it out.
+I am a Full Stack Software Engineer who love this carrer, 5+ years experience building APIs, web apps and mobile apps. I specialize in JavaScript and Flutter and I also have professional experience working with Node.js, Vue.js, Hasura, Docker, AWS, Elixir and Golang. I also have a good experience with React.js and Next.js. Take a look at my projects on github and let's connect!
 
 I am passionate about knowledge and I work every day to be the best version of myself.
 
