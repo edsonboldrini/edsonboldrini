@@ -8,7 +8,7 @@ Hi, I'm Edson, I love spending time with people I love, specially my wife, I lik
 ## Summary
 About my carreer as a Software Engineer, I like to say: "I solve problems and guarantee the functioning of the systems: first I plan, then I build and finally I keep improving the solution."
 
-I am a Full Stack Software Engineer who love this carrer, 5+ years experience building APIs, web apps and mobile apps. I specialize in JavaScript and Flutter and I also have professional experience working with Node.js, Vue.js, Hasura, Docker, AWS, Elixir and Golang. I also have a good experience with React.js and Next.js. Take a look at my projects on github and let's connect!
+I am a Full Stack Software Engineer who love this carrer, 6+ years experience building APIs, web apps and mobile apps. I specialize in Typescript and I also have professional experience working with tools like Node, Vue, React, AWS, GCP, Elixir and Golang. Take a look at my projects on github and let's connect!
 
 I am passionate about knowledge and I work every day to be the best version of myself.
 
