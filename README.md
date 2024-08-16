@@ -3,7 +3,7 @@
 [![Edson's GitHub stats](https://github-readme-stats.vercel.app/api?username=edsonboldrini)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About me
-Hi, I'm Edson, I love spending time with people I love, specially my wife, I like to play sports and taking care of my health, I also like programming and build useful things in my free time. I'm 26, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
+Hi, I'm Edson, I love spending time with people I love, specially my wife, I like to play sports and taking care of my health, I also like programming and build useful things in my free time. I'm 28, born in Brazil, currently living in the Brazil. I seek learn a new thing everyday, and I'm always looking for new challenges.
 
 ## Summary
 About my carreer as a Software Engineer, I like to say: "I solve problems and guarantee the functioning of the systems: first I plan, then I build and finally I keep improving the solution."
